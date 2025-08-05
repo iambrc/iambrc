@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### My Github Contributions
+![](https://raw.githubusercontent.com/iambrc/iambrc/main/assets/github-contribution-grid-snake.svg)
+
 <!--
 **iambrc/iambrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
