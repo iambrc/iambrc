@@ -1,18 +1,3 @@
 ### Hi there 👋
 
-⏳ Year progress { █████████████████████████▁▁▁▁▁ } 84.65 %
-
----
-
-⏰ Updated on Thu, 05 Nov 2026 23:16:59 GMT
-
-### My Github Contributions
-![](https://raw.githubusercontent.com/iambrc/iambrc/main/assets/github-contribution-grid-snake.svg)
-
-<a href="https://github.com/iambrc/github-readme-stats">
-  <img height=200 align="center" src="https://my-repo-flame-eta.vercel.app/api?username=iambrc" />
-</a>
-<a href="https://github.com/iambrc/convoychat">
-  <img height=200 align="center" src="https://my-repo-flame-eta.vercel.app/api/top-langs?username=iambrc&layout=compact&langs_count=8&card_width=320" />
-</a>
-
+I'm [Ruchao Bao](https://iambrc.github.io/), an M.S. student in Computational Mathematics at USTC.
